@@ -33,9 +33,9 @@ let cmate1course_lowercase = classmate1Course.toLowerCase();
 
 // Classmate 2's Information
 let classmate2Name = "Roxanne Tamayo Purugganan";
-let classmate2Birthdate = "February 7, 2006";
-let classmate2Birthplace = ", Philippines";
-let classmate2Address = "Sta. Maria, Philippines";
+let classmate2Birthdate = "February 07, 2006";
+let classmate2Birthplace = "narvancan District Hospital, Philippines 2704";
+let classmate2Address = "Poblacion Sur, Sta. Maria, Ilocos Sur, Philippines 2705";
 let classmate2Course = "Bachelor of Science in Computer Science";
 let classmate2DreamJob = "Software Engineer";
 
