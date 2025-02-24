@@ -3,8 +3,8 @@
 
 // Student's Information
 let myname = "Rizalyn Donato Domitita";
-let birthdate = "November 113, 2005";
-let birthplace = "Southern Ilocs Sur Dist. Hospital- Tagudin, Ilocos Sur, Philippines 2714";
+let birthdate = "November 13, 2005";
+let birthplace = "Southern Ilocos Sur Dist. Hospital- Tagudin, Ilocos Sur, Philippines 2714";
 let address = "Al-Aludig, Santiago, Ilocos Sur, Philippines 2707";
 let course = "Bachelor of Science in Computer Science";
 let dreamJob = "Software Engineer";
