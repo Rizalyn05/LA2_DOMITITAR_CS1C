@@ -14,22 +14,22 @@ console.log("Sum of a, b, c, d, and e:", sum);
 
 
 // b. Compare the values of variable d and constant e using relational operators [>, <, >=, <=, and ===], then display the results.
-console.log("d > e:", parseInt(d) > e); //parseInt converts d to a number for comparison.
-console.log("d < e:", parseInt(d) < e);
-console.log("d >= e:", parseInt(d) >= e);
-console.log("d <= e:", parseInt(d) <= e);
-console.log("d === e:", parseInt(d) === e);
+console.log("d > e:", d > e); //parseInt converts d to a number for comparison.
+console.log("d < e:", d < e);
+console.log("d >= e:", d >= e);
+console.log("d <= e:", d <= e);
+console.log("d === e:", d === e);
 
 
 // c. Declare new variables to store the results of the following operations, then after, display the results:
 
 // 1. Subtract all the values of the declared variables.
-let subtractionResult = a - b - c - parseInt(d);
+let subtractionResult = a - b - c - d;
 console.log("Result of subtracting all variables:", subtractionResult);
 
 // 2. Multiply the values of variable a and c, divided by constant e.
-let multiplicationResult = (a * c) / e;
-console.log("Result of multiplying a and c, then dividing by e:", multiplicationResult);
+let result = (a * c) / e;
+console.log("Result of multiplying a and c, then dividing by e:", result);
 
 // 3. Display the exponent value of constant e raised to the power of variable c.
 let exponentResult = e**c;
